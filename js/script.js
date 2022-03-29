@@ -29,11 +29,6 @@ const sendMail = () => {
 
 }
 
-//get resume
-const getResume = () => {
-    window.location = "/prathameshResume.pdf";
-}
-
 //sticky navbar
 var nav = document.querySelector("nav");
 var scrollBtn = document.querySelector(".scroll_To_Top")

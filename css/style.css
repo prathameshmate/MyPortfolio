@@ -860,3 +860,26 @@ textarea{
     }
 }
 
+@media screen and (max-height:450px){
+    .footer{
+        position: fixed;
+        bottom: 0;
+        left:  0;
+    }
+    .home{
+        height: auto;
+    }
+    .about{
+        height: auto;
+    }
+    .skills{
+        height: auto;
+    }
+    .projects{
+        height: auto;
+    }
+    .contact{
+        height: auto;
+        padding-bottom: 30px !important;
+    }
+}

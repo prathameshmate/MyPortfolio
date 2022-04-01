@@ -859,7 +859,7 @@ textarea{
         display: block;
     }
 }
-@media screen and (max-height:1300px){
+@media screen and (max-height:700px){
     .home{
         height: auto;
     }

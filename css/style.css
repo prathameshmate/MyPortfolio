@@ -864,11 +864,6 @@ textarea{
 }
 
 @media screen and (max-height:750px){
-    .footer{
-        position: fixed;
-        bottom: 0;
-        left: 0;
-    }
     .home{
         height: auto;
     }
